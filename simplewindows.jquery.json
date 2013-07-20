@@ -1,0 +1,39 @@
+{
+    "name": "simplewindows",
+    "title": "jQuery simpleWindows",
+    "description": "jQuery plugin - windows in your browser.",
+    "keywords": [
+        "window",
+        "windows",
+        "table",
+        "dialog",
+        "popup",
+        "handling"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Tóth András",
+        "url": "https://github.com/andrastoth/simplewindows/blob/master/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Tóth András",
+            "email": "atandrastoth@gmail.com",
+            "url": "http://atandrastoth.co.uk/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/andrastoth/simplewindows/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/andrastoth/simplewindows/issues",
+    "homepage": "http://atandrastoth.co.uk/webdesign",
+    "demo": "http://atandrastoth.co.uk/simplewindows",
+    "docs": "https://github.com/andrastoth/simplewindows",
+    "download": "https://github.com/andrastoth/simplewindows/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
