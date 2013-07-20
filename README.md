@@ -3,7 +3,7 @@ simpleWindows jQuery-plugin
 
 windows in your browser
 
-<img src = "css/demo.jpg">
+<img src = "css/demo.JPG">
 
 - arrange of windows with keypress
 - configurable key commands
